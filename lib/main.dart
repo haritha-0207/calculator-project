@@ -114,7 +114,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
         children: [
 
           Expanded(
-            flex:0,
+            flex:5,
             child: Container(
               color: Colors.grey[200],
               padding: EdgeInsets.symmetric(vertical:2, horizontal:2),
